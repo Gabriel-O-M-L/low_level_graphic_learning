@@ -1,0 +1,4 @@
+/home/gabrieloliveira/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/gabrieloliveira/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -DCMAKE_TOOLCHAIN_FILE=/home/gabrieloliveira/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja -S "/home/gabrieloliveira/Desktop/engine/C++ graphics leaning" -B "/home/gabrieloliveira/Desktop/engine/C++ graphics leaning/cmake-build-debug"
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/gabrieloliveira/Desktop/engine/C++ graphics leaning/cmake-build-debug

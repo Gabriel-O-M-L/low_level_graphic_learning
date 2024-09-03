@@ -1,0 +1,3 @@
+/home/gabrieloliveira/Desktop/engine/C++ graphics leaning/cmake-build-debug/CMakeFiles/C___graphics_leaning.dir
+/home/gabrieloliveira/Desktop/engine/C++ graphics leaning/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gabrieloliveira/Desktop/engine/C++ graphics leaning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
